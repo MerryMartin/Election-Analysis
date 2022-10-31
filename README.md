@@ -17,8 +17,8 @@ Software:  Python version*******, Visual Studio Code version*******
 ## Summary
 The analysis of the elction show that ***********
 ##Overview of Election Audit Results
-"*" Votes cast in the congressional election
-
+* Votes cast in the congressional election
+* County breakdown
 
 
 ## Challenge Overview
