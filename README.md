@@ -24,7 +24,7 @@ The audit conclusions were then organized in f-strings so they could be neatly p
 ![County_breakdown](https://user-images.githubusercontent.com/115426070/199116381-cc44d62c-9a8b-461d-b753-d379eb7fb76c.png)
 
 * Denver County had the largest turnout, with 306,055 votes cast.
-* Diana DeGette won the popular election, with Charles Casper Stockham coming in second place and Raymon Anthony Doane coming in third place.  The compiled results for each candidate (both total number of votes received and percent of the total votes cast) are below:
+* Diana DeGette won the popular election, with Charles Casper Stockham coming in second place and Raymon Anthony Doane coming in third place.  The compiled results for each candidate (both percent of the total votes cast and total number of votes received) are below:
 
 ![candidate_results](https://user-images.githubusercontent.com/115426070/199117189-9278d0b6-fd95-46ae-bb10-9eea3f0680f6.png)
 
