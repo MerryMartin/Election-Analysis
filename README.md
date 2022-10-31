@@ -33,8 +33,8 @@ The audit conclusions were then organized in f-strings so they could be neatly p
 ![winner](https://user-images.githubusercontent.com/115426070/199118328-113f0183-4adf-4a9b-b199-9449cf50a8ab.png)
 
 ### Election Audit Summary
-business proposal to the election commission on how this script can be used for any election (with modifications).  
-* example 1 of how it can be modified for future elections
-* example 2
+My proposal to the election commission on how this script can be modified and used for any future elections are as follows.  
+* Since lists and dictionaries were used for this audit, this script can be scaled up to elections that have many more candidates or participating counties.  Additional lists could also be created if the election commmission wanted to analyze more criteria, like how many votes in the counties went to each political party.   
+* Turnout could be further analyzed by adding voter registration data to see how many registered voters particiapted in the election and which counties they represented.  
 
 
