@@ -30,6 +30,7 @@ The audit conclusions were then organized in f-strings so they could be neatly p
 
 * Diana DeGette won with this election with 73.8% of the votes cast for her, a total of 272,892 votes.  
 
+![winner](https://user-images.githubusercontent.com/115426070/199118328-113f0183-4adf-4a9b-b199-9449cf50a8ab.png)
 
 ### Election Audit Summary
 business proposal to the election commission on how this script can be used for any election (with modifications).  
