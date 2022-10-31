@@ -17,7 +17,7 @@ The audit conclusions were then organized in f-strings so they could be neatly p
 
 ![fstring_and_text_file](https://user-images.githubusercontent.com/115426070/199115744-317b9da0-ba24-4b17-8729-1390ea9cb650.png)
 
-###Overview of Election Audit Results
+### Overview of Election Audit Results
 * The total votes cast in the congressional election was 369,711.
 * The turnout for each county (both percent of the total votes and total number of votes cast) is best illustrated from the text file below:
  
@@ -31,7 +31,7 @@ The audit conclusions were then organized in f-strings so they could be neatly p
 * Diana DeGette won with this election with 73.8% of the votes cast for her, a total of 272,892 votes.  
 
 
-###Election Audit Summary
+### Election Audit Summary
 business proposal to the election commission on how this script can be used for any election (with modifications).  
 * example 1 of how it can be modified for future elections
 * example 2
