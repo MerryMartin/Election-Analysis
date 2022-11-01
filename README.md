@@ -1,4 +1,4 @@
-# Election-Analysis
+# Election-Audit-Analysis
 
 ## Project Overview
 A friend at the Colorado board of elections has asked me to help audit the tabulated results for a recent US Congressional election.  His hope is that I can help develop a method to audit the results with Python, instead of Excel, so that he can utilize the new method to analyze different elections in the future.  
