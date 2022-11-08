@@ -19,7 +19,8 @@ The audit conclusions were then organized in f-strings so they could be neatly p
 
 ### Overview of Election Audit Results
 * The total votes cast in the congressional election was 369,711.
-* The turnout for each county (both percent of the total votes and total number of votes cast) is best illustrated with the graphic below:
+* The turnout for each county (both percent of the total votes and total number of votes cast) is below:
+ * Denver
  
 ![County_breakdown](https://user-images.githubusercontent.com/115426070/199116381-cc44d62c-9a8b-461d-b753-d379eb7fb76c.png)
 
@@ -31,6 +32,10 @@ The audit conclusions were then organized in f-strings so they could be neatly p
 * Diana DeGette won with this election with 73.8% of the votes cast for her, a total of 272,892 votes.  
 
 ![winner](https://user-images.githubusercontent.com/115426070/199118328-113f0183-4adf-4a9b-b199-9449cf50a8ab.png)
+
+![Terminal Output](https://user-images.githubusercontent.com/115426070/200646785-0dbf3e80-9649-49d6-bd8d-7f5a2a11d1a0.png)
+
+
 
 ### Election Audit Summary
 My proposal to the election commission on how this script can be modified and used for any future elections are as follows.  
