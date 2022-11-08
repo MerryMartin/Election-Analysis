@@ -20,10 +20,9 @@ The audit conclusions were then organized in f-strings so they could be neatly p
 ### Overview of Election Audit Results
 * The total votes cast in the congressional election was 369,711.
 * The turnout for each county (both percent of the total votes and total number of votes cast) is below:
-   * Jefferson:  10.5% (
- 
-![County_breakdown](https://user-images.githubusercontent.com/115426070/199116381-cc44d62c-9a8b-461d-b753-d379eb7fb76c.png)
-
+   * Jefferson: 10.5% (38,855)
+   * Denver: 82.8% (306,055)
+   * Arapahoe: 6.7% (24,801)
 * Denver County had the largest turnout, with 306,055 votes cast.
 * Diana DeGette won the popular election, with Charles Casper Stockham coming in second place and Raymon Anthony Doane coming in third place.  The compiled results for each candidate (both percent of the total votes cast and total number of votes received) are below:
 
