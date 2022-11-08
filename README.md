@@ -20,7 +20,7 @@ The audit conclusions were then organized in f-strings so they could be neatly p
 ### Overview of Election Audit Results
 * The total votes cast in the congressional election was 369,711.
 * The turnout for each county (both percent of the total votes and total number of votes cast) is below:
-   * Denver
+   * Jefferson:  10.5% (
  
 ![County_breakdown](https://user-images.githubusercontent.com/115426070/199116381-cc44d62c-9a8b-461d-b753-d379eb7fb76c.png)
 
