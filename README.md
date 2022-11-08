@@ -30,6 +30,7 @@ The audit conclusions were then organized in f-strings so they could be neatly p
    * Raymon Anthony Doane: 3.1% (11,606)
 * Diana DeGette won with this election with 73.8% of the votes cast for her, a total of 272,892 votes.  
 
+#### Total Election Audit Results
 ![Terminal Output](https://user-images.githubusercontent.com/115426070/200646785-0dbf3e80-9649-49d6-bd8d-7f5a2a11d1a0.png)
 
 
