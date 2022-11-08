@@ -6,7 +6,7 @@ import csv
 import os
 
 # Add a variable to load a file from a path.
-file_to_load = os.path.join("Resources", "election_results.csv")
+file_to_load = os.path.join(".", "Resources", "election_results.csv")
 # Add a variable to save the file to a path.
 file_to_save = os.path.join("analysis", "election_analysis.txt")
 
@@ -101,9 +101,10 @@ with open(file_to_save, "w") as txt_file:
         turnout_percentage = float(turnout) / float(total_votes) *100
         county_results = (
             f"{county_name}: {turnout_percentage:.1f}% ({turnout:,})\n")
-          
+        county_results2 = (
+            f"{county_name}: {turnout_percentage:.1f}% ({turnout:,})")
          # 6d: Print the county results to the terminal.
-        print(county_results)
+        print(county_results2)
 
          # 6e: Save the county votes to a text file.
         txt_file.write(county_results)
