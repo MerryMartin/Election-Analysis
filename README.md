@@ -9,7 +9,7 @@ Data Source:  election_results.csv
 Software:  Python version 3.9.12, Visual Studio Code version 1.72.0
 
 ## Summary
-The analysis of the election audit was begun by using dependencies and then joining files.  Lists and dictionaries were used to organize the data so it could be analyzed in loops, with membership operators.  
+The analysis of the election audit was begun by using dependencies and then joining files to access the raw data.  Lists and dictionaries were used to organize the data so it could be analyzed in loops, with membership operators.  
 
 ![lists_and_dictionaries](https://user-images.githubusercontent.com/115426070/199115408-5de60ebc-d8af-4be5-bdd8-18ef4a8b7aff.png)
 
